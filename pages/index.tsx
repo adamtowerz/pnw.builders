@@ -3,6 +3,7 @@ import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 
 const Home: NextPage = () => {
+  console.log('coming 2022?')
   return (
     <div className={styles.container}>
       <Head>
